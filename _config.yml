@@ -4,8 +4,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
+  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: false
 aux_links:
-  Cheat sheet (PDF): /cheatsheets/llm-sizing-cheatsheet.pdf
+  Cheat sheet (PDF): https://thetaplex.github.io/learning/cheatsheets/llm-sizing-cheatsheet.pdf
