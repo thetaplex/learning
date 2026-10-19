@@ -29,7 +29,7 @@ By the end, you'll be able to look at any model ("Llama 70B", "Qwen 14B", "30B-A
 | 7 | [Special Case: Mixture-of-Experts](lessons/07-mixture-of-experts.md) | Why "30B-A3B" models are different | 4 min |
 | 8 | [Putting It All Together](lessons/08-putting-it-together.md) | A full decision process with worked examples | 8 min |
 
-Then practice with the **[Exercises](exercises/README.md)** and keep the **[Cheat Sheet](../../cheatsheets/llm-sizing-cheatsheet.pdf)** handy.
+Then practice with the **[Exercises](exercises/README.md)** and keep the **[Cheat Sheet](../../cheatsheets/llm-sizing-cheatsheet.pdf#navpanes=0&pagemode=none&view=FitH)** handy.
 
 ## How to use this course
 

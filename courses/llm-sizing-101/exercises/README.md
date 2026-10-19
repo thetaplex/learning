@@ -6,7 +6,7 @@ nav_order: 9
 
 # Exercises
 
-Work each one out on paper or with a calculator first, then expand the answer. Use the [Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf) if you get stuck.
+Work each one out on paper or with a calculator first, then expand the answer. Use the [Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf#navpanes=0&pagemode=none&view=FitH) if you get stuck.
 
 ## Warm-up: sizing
 
@@ -114,4 +114,4 @@ At 8,192 tokens: 320 KB × 8,192 ≈ **2.5 GB**. (This is roughly what a 70B Lla
 
 ---
 
-[← Lesson 8](../lessons/08-putting-it-together.md) · [Course home](../README.md) · [Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf)
+[← Lesson 8](../lessons/08-putting-it-together.md) · [Course home](../README.md) · [Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf#navpanes=0&pagemode=none&view=FitH)

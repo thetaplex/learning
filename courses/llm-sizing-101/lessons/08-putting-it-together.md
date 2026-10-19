@@ -71,7 +71,7 @@ A 32B model would spill about half into RAM and slow toward CPU speeds.
 
 ## You're done 🎉
 
-You can now size up any model on any machine. Practice with the **[Exercises](../exercises/README.md)**, and keep the **[Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf)** nearby.
+You can now size up any model on any machine. Practice with the **[Exercises](../exercises/README.md)**, and keep the **[Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf#navpanes=0&pagemode=none&view=FitH)** nearby.
 
 ---
 
