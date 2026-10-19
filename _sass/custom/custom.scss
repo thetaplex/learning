@@ -8,8 +8,9 @@ h1, h2, h3, h4, h5, h6, .site-title {
 .main-content a:not(.btn) { text-decoration-color: #cd8e33; }
 .navigation-list-link.active { color: #8b6022; font-weight: 600; }
 
-// Fixed-width sidebar; the theme grows it with the viewport on wide screens.
+// Fixed-width sidebar with the content docked beside it. The theme's default
+// grows the sidebar and pushes the content to the middle on wide screens.
 @media (min-width: 66.5rem) {
   .side-bar { width: 264px; }
-  .main { max-width: 880px; margin-left: calc((100% - 264px - 880px) / 2 + 264px); }
+  .side-bar + .main { margin-left: 264px; max-width: 880px; }
 }

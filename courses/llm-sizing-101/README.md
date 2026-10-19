@@ -3,6 +3,7 @@ title: LLM Sizing 101
 permalink: /courses/llm-sizing-101/
 nav_order: 2
 has_children: true
+has_toc: false
 ---
 
 # LLM Sizing 101: A Beginner's Course on Running LLMs Locally
@@ -14,6 +15,8 @@ By the end, you'll be able to look at any model ("Llama 70B", "Qwen 14B", "30B-A
 1. **Whether the model fits** in memory
 2. **How fast it will run**, in tokens per second
 3. **Whether you need a GPU**, and what to change if it doesn't fit
+
+**[Start with Lesson 1 →](lessons/01-the-big-picture.md)**
 
 ## Course outline
 
