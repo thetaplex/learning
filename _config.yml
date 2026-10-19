@@ -9,4 +9,4 @@ relative_links:
   enabled: true
   collections: false
 aux_links:
-  Cheat sheet (PDF): /cheatsheets/llm-sizing-cheatsheet.pdf
+  Cheat sheet (PDF): https://thetaplex.github.io/learning/cheatsheets/llm-sizing-cheatsheet.pdf
