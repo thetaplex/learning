@@ -17,7 +17,7 @@ Free, open, beginner-friendly learning material: courses, cheat sheets and pract
 
 | Cheat sheet | Course |
 |---|---|
-| [LLM Sizing (PDF)](cheatsheets/llm-sizing-cheatsheet.pdf) | [LLM Sizing 101](courses/llm-sizing-101/README.md) |
+| [LLM Sizing (PDF)](cheatsheets/llm-sizing-cheatsheet.pdf#navpanes=0&pagemode=none&view=FitH) | [LLM Sizing 101](courses/llm-sizing-101/README.md) |
 
 ## License
 
