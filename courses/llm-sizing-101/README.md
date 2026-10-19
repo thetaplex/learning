@@ -16,8 +16,6 @@ By the end, you'll be able to look at any model ("Llama 70B", "Qwen 14B", "30B-A
 2. **How fast it will run**, in tokens per second
 3. **Whether you need a GPU**, and what to change if it doesn't fit
 
-**[Start with Lesson 1 →](lessons/01-the-big-picture.md)**
-
 ## Course outline
 
 | # | Lesson | You'll learn | Time |
@@ -51,3 +49,7 @@ It runs well   = it fits in your fastest memory (VRAM or unified memory)
 ## Contributing
 
 Corrections, new worked examples, and hardware numbers for more devices are welcome. Please open an issue or pull request.
+
+---
+
+Next: [Lesson 1: The Big Picture →](lessons/01-the-big-picture.md)
