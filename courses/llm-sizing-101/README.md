@@ -1,5 +1,6 @@
 ---
 title: LLM Sizing 101
+permalink: /courses/llm-sizing-101/
 nav_order: 2
 has_children: true
 ---
