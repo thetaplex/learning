@@ -4,6 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
+  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: false
