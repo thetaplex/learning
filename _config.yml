@@ -1,0 +1,11 @@
+title: Learning
+description: Free, open, beginner-friendly learning material.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+aux_links:
+  Cheat sheet (PDF): /cheatsheets/llm-sizing-cheatsheet.pdf

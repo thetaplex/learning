@@ -1,3 +1,9 @@
+---
+title: "2. How Big Is the Model?"
+parent: LLM Sizing 101
+nav_order: 2
+---
+
 # Lesson 2: How Big Is the Model?
 
 ## Parameters: the numbers in the book

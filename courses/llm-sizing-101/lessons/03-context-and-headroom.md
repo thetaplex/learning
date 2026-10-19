@@ -1,3 +1,9 @@
+---
+title: "3. The Scratchpad and Headroom"
+parent: LLM Sizing 101
+nav_order: 3
+---
+
 # Lesson 3: The Scratchpad and Headroom
 
 The model file isn't the only thing that needs memory. Two more pieces come along for the ride.

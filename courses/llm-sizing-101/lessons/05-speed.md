@@ -1,3 +1,9 @@
+---
+title: "5. How Fast Will It Run?"
+parent: LLM Sizing 101
+nav_order: 5
+---
+
 # Lesson 5: How Fast Will It Run?
 
 Back to the analogy: to write each word, the computer reads the whole book. So speed comes down to **how many gigabytes per second your memory can deliver**. This is called **memory bandwidth**.

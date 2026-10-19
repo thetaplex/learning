@@ -1,3 +1,9 @@
+---
+title: "4. Where the Memory Lives"
+parent: LLM Sizing 101
+nav_order: 4
+---
+
 # Lesson 4: Where the Memory Lives
 
 You now know how much memory a model needs. Next: **which** memory on your machine counts?

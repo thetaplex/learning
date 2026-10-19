@@ -1,3 +1,9 @@
+---
+title: LLM Sizing 101
+nav_order: 2
+has_children: true
+---
+
 # LLM Sizing 101: A Beginner's Course on Running LLMs Locally
 
 Ever wondered whether a model will run on your laptop, or whether you need a graphics card? This short course teaches you to answer that yourself with a few lines of back-of-the-envelope math. No machine learning background needed.

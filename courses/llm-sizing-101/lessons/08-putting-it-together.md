@@ -1,3 +1,9 @@
+---
+title: "8. Putting It All Together"
+parent: LLM Sizing 101
+nav_order: 8
+---
+
 # Lesson 8: Putting It All Together
 
 ## The decision process

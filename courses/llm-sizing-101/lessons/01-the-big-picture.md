@@ -1,3 +1,9 @@
+---
+title: "1. The Big Picture"
+parent: LLM Sizing 101
+nav_order: 1
+---
+
 # Lesson 1: The Big Picture
 
 ## The analogy
