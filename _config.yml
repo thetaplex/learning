@@ -1,6 +1,7 @@
 title: Learning
 description: Free, open, beginner-friendly learning material.
 remote_theme: just-the-docs/just-the-docs
+color_scheme: thetaplex
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
