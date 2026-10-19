@@ -1,3 +1,9 @@
+---
+title: "6. Do You Need a GPU?"
+parent: LLM Sizing 101
+nav_order: 6
+---
+
 # Lesson 6: Do You Need a GPU?
 
 Put Lessons 2–5 together and the answer mostly falls out on its own.

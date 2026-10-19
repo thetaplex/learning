@@ -1,3 +1,9 @@
+---
+title: "7. Special Case: Mixture-of-Experts"
+parent: LLM Sizing 101
+nav_order: 7
+---
+
 # Lesson 7: Special Case: Mixture-of-Experts
 
 Some models list **two** parameter counts, for example:

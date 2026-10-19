@@ -1,3 +1,9 @@
+---
+title: Exercises
+parent: LLM Sizing 101
+nav_order: 9
+---
+
 # Exercises
 
 Work each one out on paper or with a calculator first, then expand the answer. Use the [Cheat Sheet](../../../cheatsheets/llm-sizing-cheatsheet.pdf) if you get stuck.
